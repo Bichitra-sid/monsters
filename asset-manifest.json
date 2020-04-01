@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bichitra-sid/React-Projects/tree/master/monster/static/css/main.041af2db.chunk.css",
+    "main.js": "/Bichitra-sid/React-Projects/tree/master/monster/static/js/main.3eceac70.chunk.js",
+    "main.js.map": "/Bichitra-sid/React-Projects/tree/master/monster/static/js/main.3eceac70.chunk.js.map",
+    "runtime-main.js": "/Bichitra-sid/React-Projects/tree/master/monster/static/js/runtime-main.15e40d8a.js",
+    "runtime-main.js.map": "/Bichitra-sid/React-Projects/tree/master/monster/static/js/runtime-main.15e40d8a.js.map",
+    "static/js/2.b01c30b1.chunk.js": "/Bichitra-sid/React-Projects/tree/master/monster/static/js/2.b01c30b1.chunk.js",
+    "static/js/2.b01c30b1.chunk.js.map": "/Bichitra-sid/React-Projects/tree/master/monster/static/js/2.b01c30b1.chunk.js.map",
+    "index.html": "/Bichitra-sid/React-Projects/tree/master/monster/index.html",
+    "precache-manifest.b1559c1fb645f95a2646dc70eaadca7b.js": "/Bichitra-sid/React-Projects/tree/master/monster/precache-manifest.b1559c1fb645f95a2646dc70eaadca7b.js",
+    "service-worker.js": "/Bichitra-sid/React-Projects/tree/master/monster/service-worker.js",
+    "static/css/main.041af2db.chunk.css.map": "/Bichitra-sid/React-Projects/tree/master/monster/static/css/main.041af2db.chunk.css.map",
+    "static/js/2.b01c30b1.chunk.js.LICENSE.txt": "/Bichitra-sid/React-Projects/tree/master/monster/static/js/2.b01c30b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Bichitra-sid/React-Projects/tree/master/monster/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15e40d8a.js",
+    "static/js/2.b01c30b1.chunk.js",
+    "static/css/main.041af2db.chunk.css",
+    "static/js/main.3eceac70.chunk.js"
+  ]
+}
