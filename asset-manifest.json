@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Bichitra-sid/monsters/static/css/main.041af2db.chunk.css",
-    "main.js": "/Bichitra-sid/monsters/static/js/main.4e739db0.chunk.js",
-    "main.js.map": "/Bichitra-sid/monsters/static/js/main.4e739db0.chunk.js.map",
-    "runtime-main.js": "/Bichitra-sid/monsters/static/js/runtime-main.565a6614.js",
-    "runtime-main.js.map": "/Bichitra-sid/monsters/static/js/runtime-main.565a6614.js.map",
-    "static/js/2.b01c30b1.chunk.js": "/Bichitra-sid/monsters/static/js/2.b01c30b1.chunk.js",
-    "static/js/2.b01c30b1.chunk.js.map": "/Bichitra-sid/monsters/static/js/2.b01c30b1.chunk.js.map",
-    "index.html": "/Bichitra-sid/monsters/index.html",
-    "precache-manifest.9775738c9df3dab6f277d79110462939.js": "/Bichitra-sid/monsters/precache-manifest.9775738c9df3dab6f277d79110462939.js",
-    "service-worker.js": "/Bichitra-sid/monsters/service-worker.js",
-    "static/css/main.041af2db.chunk.css.map": "/Bichitra-sid/monsters/static/css/main.041af2db.chunk.css.map",
-    "static/js/2.b01c30b1.chunk.js.LICENSE.txt": "/Bichitra-sid/monsters/static/js/2.b01c30b1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Bichitra-sid/monsters/static/media/logo.5d5d9eef.svg"
+    "main.css": "/monsters/static/css/main.041af2db.chunk.css",
+    "main.js": "/monsters/static/js/main.f12b2310.chunk.js",
+    "main.js.map": "/monsters/static/js/main.f12b2310.chunk.js.map",
+    "runtime-main.js": "/monsters/static/js/runtime-main.9d4df5f6.js",
+    "runtime-main.js.map": "/monsters/static/js/runtime-main.9d4df5f6.js.map",
+    "static/js/2.b01c30b1.chunk.js": "/monsters/static/js/2.b01c30b1.chunk.js",
+    "static/js/2.b01c30b1.chunk.js.map": "/monsters/static/js/2.b01c30b1.chunk.js.map",
+    "index.html": "/monsters/index.html",
+    "precache-manifest.771f113892726fc16f48a776b3d1b015.js": "/monsters/precache-manifest.771f113892726fc16f48a776b3d1b015.js",
+    "service-worker.js": "/monsters/service-worker.js",
+    "static/css/main.041af2db.chunk.css.map": "/monsters/static/css/main.041af2db.chunk.css.map",
+    "static/js/2.b01c30b1.chunk.js.LICENSE.txt": "/monsters/static/js/2.b01c30b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/monsters/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.565a6614.js",
+    "static/js/runtime-main.9d4df5f6.js",
     "static/js/2.b01c30b1.chunk.js",
     "static/css/main.041af2db.chunk.css",
-    "static/js/main.4e739db0.chunk.js"
+    "static/js/main.f12b2310.chunk.js"
   ]
 }
