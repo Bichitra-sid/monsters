@@ -1,7 +1,7 @@
 {
   "name": "monster",
   "version": "0.1.0",
-  "homepage": "https://github.com/Bichitra-sid/monsters",
+  "homepage": "https://bichitra-sid.github.io/monsters/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
